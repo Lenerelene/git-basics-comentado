@@ -19,11 +19,11 @@ git status
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Mostra qual branch está usando, se a branch está desatualizada e quais arquivos você modificou
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando vai começar o trabalho no dia, antes de dar commit e quando altera a branch atual
 
 ---
 
@@ -35,11 +35,11 @@ git diff
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Mostra as alterações que foram feitas por você que ainda não foram mandadas para o commit ou para o add
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Pode ser usado para conferir as alterações feitas por você antes de add
 
 ---
 
@@ -51,11 +51,11 @@ git add [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Prepara o arquivo selecionado para o commit
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Antes de fazer commit
 
 ---
 
@@ -67,11 +67,11 @@ git diff --staged
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Faz a comparação mas com os arquivos mandados para add
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Antes de dar commit para conferir o que foi mandado para o add
 
 ---
 
@@ -83,11 +83,11 @@ git reset [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Remove do add o arquivo que foi mandado para ele
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Caso tenho cometido um erro e precise cancelar o add
 
 ---
 
@@ -99,22 +99,22 @@ git commit -m "[mensagem descritiva]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Para fazer uma alteração na branch
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando quer que a branch seja alterada com as suas modificações
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
-- [ ] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
-- [ ] 4. `git diff --staged`
-- [ ] 5. `git reset [arquivo]`
-- [ ] 6. `git commit -m "[mensagem descritiva]"`
+- [X] 1. `git status`
+- [X] 2. `git diff`
+- [X] 3. `git add [arquivo]`
+- [X] 4. `git diff --staged`
+- [X] 5. `git reset [arquivo]`
+- [X] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
 
