@@ -19,11 +19,11 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: Cria um novo repositório. -->
+Cria um novo repositório.
 
 **Quando usar / observação:**
 
-<!-- TODO: Quando for iniciar um projeto novo. -->
+Quando for iniciar um projeto novo.
 
 ---
 
@@ -35,11 +35,11 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: Copia um repositório já existente. -->
+Copia um repositório já existente.
 
 **Quando usar / observação:**
 
-<!-- TODO: Quando você for trabalhar em um repositório que já existe. -->
+Quando você for trabalhar em um repositório que já existe.
 
 ---
 
