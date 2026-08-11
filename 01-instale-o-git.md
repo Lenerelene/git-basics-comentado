@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Aplicativo standalone do github para windows
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Instala essa versão no seu windows
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Aplicativo standalone do github para mac
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Instala essa versão no seu mac
 
 ---
 
@@ -45,19 +45,19 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Versão de cmd do windows, sem GUI
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Versão mais simples do github
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [X] 1. GitHub para Windows
+- [X] 2. GitHub para Mac
+- [X] 3. Git para todas as plataformas
 
 ---
 
